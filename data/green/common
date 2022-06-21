@@ -1,0 +1,13 @@
+{
+  "name": "common",
+  "dist-tags": { "latest": "1.0.0" },
+  "versions": {
+    "1.0.0": {
+      "name": "common",
+      "version": "1.0.0",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/common.tgz"
+      }
+    }
+  }
+}

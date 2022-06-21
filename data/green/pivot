@@ -1,0 +1,13 @@
+{
+  "name": "pivot",
+  "dist-tags": { "latest": "1.0.0" },
+  "versions": {
+    "1.0.0": {
+      "name": "pivot",
+      "version": "1.0.0",
+      "dist": {
+        "tarball": "https://registry.npmjs.org/pivot.tgz"
+      }
+    }
+  }
+}
